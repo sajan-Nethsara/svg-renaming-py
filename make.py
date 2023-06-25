@@ -47,4 +47,4 @@ modified_svg_content = str(soup)
 with open("output.svg", "w") as output_file:
     output_file.write(modified_svg_content)
     print("SVG file Created successfully")
-print("<---->")
+print("<---->") 
