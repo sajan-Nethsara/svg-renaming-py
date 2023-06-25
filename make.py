@@ -1,6 +1,11 @@
 from bs4 import BeautifulSoup
+from pyfiglet import figlet_format
 
-
+asci1 = figlet_format("RE-NAME  SVG")
+asci2 = figlet_format("RaJu~Made~This     help->README.md" , font = "digital" )
+print(asci1)
+print(asci2)
+enyKey = input("Press Enter <-| to continue ~ ")
 with open("input.svg", "r") as f:
   soup = BeautifulSoup(f, "xml")
 

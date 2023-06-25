@@ -1,1 +1,2 @@
 beautifulsoup4==4.12.2
+pyfiglet==0.7.6
