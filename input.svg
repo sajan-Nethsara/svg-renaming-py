@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.5, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2000 2000" style="enable-background:new 0 0 2000 2000;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#B3B3B3;}
+	.st1{font-family:'MyriadPro-Regular';}
+	.st2{font-size:56.1579px;}
+	.st3{fill:#666666;}
+	.st4{font-size:40.6028px;}
+	.st5{fill:#494949;}
+	.st6{font-size:26.269px;}
+</style>
+<g id="static-elements">
+	<path class="st0" d="M331.6,417.8c713.1-150.1,947.8-66.1,1020.1,52c45.4,74.2,39.2,182.1,154.8,318
+		c72.4,85.1,138.9,117.9,165.5,217.5c22.6,84.4,0.8,157.8-7.1,180.8c-22.3,65.7-62.2,109.3-140.7,177.3
+		c-160.5,139.1-240.8,208.6-354.6,248.2c-108.4,37.7-247.6,86.2-346.3,14.2c-89.8-65.5-145.1-229.9-100.5-335.7
+		c12.1-28.6,38.2-68.8,22.5-107.6c-12.1-29.8-43-44-62.6-52c-164.4-66.6-311.4-8-384.2-85.1c-19.3-20.4-25.1-45.5-36.6-95.7
+		c-21.5-93.2-1.6-159.7,26-292C299.7,601.1,315.7,519.2,331.6,417.8z"/>
+	<text transform="matrix(1 0 0 1 700.373 351.9375)" class="st1 st2">example Map</text>
+	<circle class="st3" cx="999.5" cy="945.5" r="226.5"/>
+</g>
+<g id="sections">
+	<g id="bravo">
+		<g>
+			<path class="st3" d="M378,472c29.3-12.6,65.8-26.9,108.6-40.6l-11.5,161.2c-55.5,18.9-101,38.9-135.1,55.4
+				C352.7,589.3,365.3,530.7,378,472z"/>
+			<text transform="matrix(1 0 0 1 389.5137 550.168)" class="st1 st4">101</text>
+		</g>
+		<g>
+			<path class="st3" d="M511,423.9c42-12.5,89.5-24,141.7-32.9l-2.6,156.5c-54.8,9.8-104.7,22.7-148.9,36.6L511,423.9z"/>
+			<text transform="matrix(1 0 0 1 549.5137 492.168)" class="st1 st4">102</text>
+		</g>
+		<g>
+			<path class="st3" d="M857,374c31.9,0.1,62.8,1.4,92.5,3.8l-15.9,153.5h0c-27.3-1.7-55.5-2.5-84.5-2.3
+				c-63.4,0.5-122.7,6.1-177.3,14.8L671.1,388C727.9,379.3,790.2,373.9,857,374z"/>
+			<text transform="matrix(1 0 0 1 766.5137 467.168)" class="st1 st4">103</text>
+		</g>
+		<g>
+			<path class="st3" d="M990,381.6c67,7.6,127.5,20.1,180.5,34.5l-5,152.9c-57.6-15.3-123.1-28.1-195.4-34.9L990,381.6z"/>
+			<text transform="matrix(1 0 0 1 1047.5137 492.168)" class="st1 st4">104</text>
+		</g>
+		<g>
+			<path class="st3" d="M1366,642c-41.4-19.4-99.7-43.9-172.3-65.1l-2.9-155.1c56.6,16.4,103.8,34.6,140.2,50.2
+				C1342.7,528.7,1354.3,585.3,1366,642z"/>
+			<text transform="matrix(1 0 0 1 1225.5137 532.168)" class="st1 st4">105</text>
+		</g>
+	</g>
+	<g id="batman">
+		<g>
+			<path class="st5" d="M399.8,753.4l-0.4,58.7l-74.4-3.8v-22.8c0-21.6,18.8-38.4,40.3-36L399.8,753.4z"/>
+			<text transform="matrix(1.0301 0 0 1 348.7588 788.9824)" class="st1 st6">D1</text>
+		</g>
+		<g>
+			<polygon class="st5" points="511.4,760.1 510.8,812.5 406.4,807.1 406.8,748.4 			"/>
+			<text transform="matrix(1.0301 0 0 1 441.7588 789.9824)" class="st1 st6">D2</text>
+		</g>
+		<g>
+			<polygon class="st5" points="662.9,819.9 518.8,812.5 519.4,760.1 662,776.2 			"/>
+			<text transform="matrix(1.0301 0 0 1 570.7588 799.9824)" class="st1 st6">D3</text>
+		</g>
+		<g>
+			<path class="st5" d="M735,815.4v7.6l-60.1-3.1l-0.9-43.7l28.8,3.2C721.1,781.4,735,796.9,735,815.4z"/>
+			<text transform="matrix(1.0301 0 0 1 692.7588 811.9824)" class="st1 st6">D4</text>
+		</g>
+		<g>
+			<polygon class="st5" points="397.4,817.1 397,888.8 323,890.5 323,813.3 			"/>
+			<text transform="matrix(1.0301 0 0 1 344.7588 863.9824)" class="st1 st6">D5</text>
+		</g>
+		<g>
+			<polygon class="st5" points="510.8,823.5 510,887.5 406,889.8 406.4,818.1 			"/>
+			<text transform="matrix(1.0301 0 0 1 437.7588 864.9824)" class="st1 st6">D6</text>
+		</g>
+		<g>
+			<polygon class="st5" points="663.9,884.1 518,887.5 518.8,823.5 662.9,830.9 			"/>
+			<text transform="matrix(1.0301 0 0 1 570.7588 863.9824)" class="st1 st6">D7</text>
+		</g>
+		<g>
+			<polygon class="st5" points="735,834 735,882.8 675.9,884.1 674.9,830.9 			"/>
+			<text transform="matrix(1.0301 0 0 1 688.7588 870.9824)" class="st1 st6">D8</text>
+		</g>
+		<g>
+			<polygon class="st5" points="399,894.8 398.6,954.5 325,959 325,896.5 			"/>
+			<text transform="matrix(1.0301 0 0 1 344.7588 925.9824)" class="st1 st6">D9</text>
+		</g>
+		<g>
+			<path class="st5" d="M398.6,959.5l-0.3,56L364,1018c-21,1.6-39-15-39-36.1V964L398.6,959.5z"/>
+			<text transform="matrix(1.0301 0 0 1 348.7588 991.9824)" class="st1 st6">D13</text>
+		</g>
+		<g>
+			<polygon class="st5" points="510,894.5 509.3,950.1 405.6,956.5 406,896.8 			"/>
+			<text transform="matrix(1.0301 0 0 1 437.7588 926.9824)" class="st1 st6">D10</text>
+		</g>
+		<g>
+			<polygon class="st5" points="509.3,956.1 508.6,1010.6 405.3,1018.5 405.6,962.5 			"/>
+			<text transform="matrix(1.0301 0 0 1 441.7588 988.9824)" class="st1 st6">D14</text>
+		</g>
+		<g>
+			<polygon class="st5" points="664.9,941.1 517.3,950.1 518,894.5 663.9,891.1 			"/>
+			<text transform="matrix(1.0301 0 0 1 570.7588 925.9824)" class="st1 st6">D11</text>
+		</g>
+		<g>
+			<polygon class="st5" points="665.9,999.3 516.6,1010.6 517.3,956.1 664.9,947.1 			"/>
+			<text transform="matrix(1.0301 0 0 1 570.7588 983.9824)" class="st1 st6">D15</text>
+		</g>
+		<g>
+			<polygon class="st5" points="735,889.8 735,937.5 676.9,941.1 675.9,891.1 			"/>
+			<text transform="matrix(1.0301 0 0 1 688.7588 926.9824)" class="st1 st6">D12</text>
+		</g>
+		<g>
+			<path class="st5" d="M735,943.5v17.9c0,18.9-14.6,34.7-33.5,36.1l-23.6,1.8l-1-52.2L735,943.5z"/>
+			<text transform="matrix(1.0301 0 0 1 688.7588 978.9824)" class="st1 st6">D16</text>
+		</g>
+	</g>
+</g>
+</svg>
