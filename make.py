@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 from pyfiglet import figlet_format
 
-asci1 = figlet_format("RE-NAME  SVG")
+asci1 = figlet_format("NAME SVG ELEMENTS")
 asci2 = figlet_format("RaJu~Made~This     help->README.md" , font = "digital" )
 print(asci1)
 print(asci2)
@@ -16,7 +16,7 @@ sectionTypes = sections.find_all("g" , recursive=False)
 
 for section in sectionTypes:
   sectionID = section["id"]
-  print(f"<--------------- renaming ... {sectionID} section")
+  print(f"renaming ... {sectionID} section ---->")
   groups = section.find_all("g", recursive=False)
   for group in groups:
     text = group.find("text")
